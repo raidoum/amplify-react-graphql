@@ -7,5 +7,33 @@
     "amplify/#current-cloud-backend": true,
     "amplify/backend/amplify-meta.json": true,
     "amplify/backend/awscloudformation": true
-  }
+  },
+  "gotoSymbolStack.currentStackPosition": 3,
+  "gotoSymbolStack.maxStackPosition": 3,
+  "gotoSymbolStack.filePositionInfo": [
+    {
+      "textFile": "/Users/shohei/dev/amplifyapp/src/App.js",
+      "viewColumn": 1,
+      "textPosition": {
+        "line": 29,
+        "character": 4
+      }
+    },
+    {
+      "textFile": "/Users/shohei/dev/amplifyapp/src/App.js",
+      "viewColumn": 1,
+      "textPosition": {
+        "line": 29,
+        "character": 5
+      }
+    },
+    {
+      "textFile": "/Users/shohei/dev/amplifyapp/src/App.js",
+      "viewColumn": 1,
+      "textPosition": {
+        "line": 20,
+        "character": 17
+      }
+    }
+  ]
 }
